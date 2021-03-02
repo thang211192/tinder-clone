@@ -16,7 +16,6 @@ function TinderCards() {
        }
     }, [])
 
-    console.log('people: ', people);
     return (
         <div>
             <div className='tinderCards__cardContainer'>
